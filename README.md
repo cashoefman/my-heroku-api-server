@@ -22,3 +22,7 @@ You can add a project name if you want (ie. `heroku create casssupercooljsonapis
 
 ![](images/JSON_Server.jpg)
 
+Just like before, you can use postman to quickly test out your new API!
+
+![](images/Postman.jpg)
+
