@@ -1,5 +1,4 @@
 # My-Heroku-API-Server
-======================
 
 [Previously](https://github.com/cashoefman/my-api-server) we created an online JSON API Server online and locally. This time we are going to do the same thing but we will be deploying it to [Heroku](https://heroku.com) instead.
 
